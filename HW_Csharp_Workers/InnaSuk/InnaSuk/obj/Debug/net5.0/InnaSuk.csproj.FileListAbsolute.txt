@@ -1,0 +1,45 @@
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.csproj.AssemblyReference.cache
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.AssemblyInfoInputs.cache
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.AssemblyInfo.cs
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.csproj.CoreCompileInputs.cache
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.deps.json
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.runtimeconfig.json
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.runtimeconfig.dev.json
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.dll
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/bin/Debug/net5.0/ref/InnaSuk.dll
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.pdb
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.dll
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/obj/Debug/net5.0/ref/InnaSuk.dll
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.pdb
+/Users/innasukhina/Desktop/HW/HW5Csharp/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.genruntimeconfig.cache
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.deps.json
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.runtimeconfig.json
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.runtimeconfig.dev.json
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.dll
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/ref/InnaSuk.dll
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.pdb
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.csproj.AssemblyReference.cache
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.AssemblyInfoInputs.cache
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.AssemblyInfo.cs
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.csproj.CoreCompileInputs.cache
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.dll
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/ref/InnaSuk.dll
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.pdb
+/Users/innasukhina/Desktop/HW/HW Csharp Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.genruntimeconfig.cache
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.deps.json
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.runtimeconfig.json
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.runtimeconfig.dev.json
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.dll
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/ref/InnaSuk.dll
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/bin/Debug/net5.0/InnaSuk.pdb
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.csproj.AssemblyReference.cache
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.AssemblyInfoInputs.cache
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.AssemblyInfo.cs
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.csproj.CoreCompileInputs.cache
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.dll
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/ref/InnaSuk.dll
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.pdb
+/Users/innasukhina/Documents/GitArchieves/test-for-example-inna/HW_Csharp_Workers/InnaSuk/InnaSuk/obj/Debug/net5.0/InnaSuk.genruntimeconfig.cache
